@@ -1,4 +1,4 @@
-# Note-taking terminal app
+# Terminal note-taking app
 
 Take notes directly on terminal.
 
